@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-NAME=conekta-io-api-test
+NAME=keen-io-api-test
 APPLICATION_DIRECTORY=/home/ubuntu
 APPLICATION_START=$NAME/app.js
 PIDFILE=$APPLICATION_DIRECTORY/$NAME/run/$NAME.pid
